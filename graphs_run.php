@@ -1,4 +1,5 @@
 <?PHP 
+	/* Author: Aninu Alin / 2016 */
 	$global_p = 0;
 	$global_s = 0;
 	require('graphs_function.php'); 
